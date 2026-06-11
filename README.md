@@ -11,4 +11,4 @@
 - [clinical-data-engineering-learning](https://github.com/saty24xd/clinical-data-engineering-learning) — Git & GitHub practice repo
 
 ## 📫 Connect
-- LinkedIn: [your-profile](https://linkedin.com/in/saty24xd)
+- LinkedIn: [Profile](https://www.linkedin.com/in/satorresy/?locale=es)
