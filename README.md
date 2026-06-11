@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Sebastian 👋
 
-<!--
-**saty24xd/saty24xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Clinical Data Engineer** building reproducible data pipelines for clinical trials.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Languages:** SAS, R, Python, SQL
+- **Standards:** CDISC (SDTM, ADaM), GCP
+- **Tools:** Git, GitHub, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- [clinical-data-engineering-learning](https://github.com/saty24xd/clinical-data-engineering-learning) — Git & GitHub practice repo
+
+## 📫 Connect
+- LinkedIn: [your-profile](https://linkedin.com/in/saty24xd)
