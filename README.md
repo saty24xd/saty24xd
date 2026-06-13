@@ -38,8 +38,6 @@ I combine a **clinical background** with **software engineering** to connect and
 | `clinical-integration-capstone` | 🟡 Planned | Python → Mirth → HL7/FHIR → PostgreSQL |
 | `clinical-ai-agent-capstone` | 🟡 Planned | RAG + agent UI over synthetic FHIR/clinical docs |
 
-> Pin your best repos on your profile as they grow.
-
 ---
 
 ## 💼 Background (honest)
