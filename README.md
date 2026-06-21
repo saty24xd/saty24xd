@@ -4,7 +4,7 @@
 Building production-minded **health data systems**: clinical integration + LLM/RAG — **synthetic data only, no PHI**.
 
 🌎 Based in Peru · **Open to remote LATAM** (US/Canada clients via nearshore)  
- Professional English (1 year work experience in Australia)
+ Professional English (1 year work experience in Australia).
 
 ---
 
