@@ -23,7 +23,7 @@ I combine a **clinical background** with **software engineering** to connect and
 
 ## 🔭 Currently learning (Jun 2026 →)
 
-- JavaScript & Python for **HL7 parsing** and clinical data transforms  
+- JavaScript & Python for **HL7 parsing** and clinical data transforms.  
 - Parallel tracks: **Clinical Data Integration** + **AI Engineering**  
 - Building public portfolio repos — learning in public  
 
